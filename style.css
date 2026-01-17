@@ -242,4 +242,12 @@ ul a{
 .foot-pannel2 a:hover{
     text-decoration: underline;
     cursor:pointer ;
-} 
+}
+.alert{
+     background:#232f3e;
+        color:#ffffff;
+        text-align:center;
+        padding:15px;
+        font-size:14px;
+        line-height:1.5;
+}
